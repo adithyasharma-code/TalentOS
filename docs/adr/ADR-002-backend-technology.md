@@ -3,6 +3,7 @@
 **Status:** Accepted
 
 **Date:** 2026-07-08
+**Related Issue:** TOS-009
 
 ---
 
